@@ -5,3 +5,7 @@ It would be good to have a remote repository for me to access my work files from
 2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Because some changes by collaborators might not be relevant enough to be included in my code, especially if we are changing the same file. This can create conflicts.
+
+3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks will Copy a repository from a remote account in GitHub directly to my GitHub account. Clone will copy from my GitHub account to the working directory. Brach will create a new area inside a project going on on my working directory. The utilization of these will depend on how acessible to others I want to make my updates in the moment.
