@@ -13,3 +13,7 @@ Forks will Copy a repository from a remote account in GitHub directly to my GitH
 4) What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It is good to know the last updates that were made by collaborators before entering conflict and to track down possible bugs introduced afterwards upon merging.
+
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would send files back and forth with commentaries. It would be easier to avoid conflicted versions, but interactivity would be harder and communication by e-mail would be less direct.
