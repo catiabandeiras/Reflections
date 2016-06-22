@@ -1,0 +1,3 @@
+1) When would you want to use a remote repository rather than keeping all your work local?
+
+It would be good to have a remote repository for me to access my work files from different locations and computers instead of always dragging my external drive around, and also to show it to collaborators.
