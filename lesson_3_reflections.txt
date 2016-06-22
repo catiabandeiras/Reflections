@@ -9,3 +9,7 @@ Because some changes by collaborators might not be relevant enough to be include
 3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks will Copy a repository from a remote account in GitHub directly to my GitHub account. Clone will copy from my GitHub account to the working directory. Brach will create a new area inside a project going on on my working directory. The utilization of these will depend on how acessible to others I want to make my updates in the moment.
+
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It is good to know the last updates that were made by collaborators before entering conflict and to track down possible bugs introduced afterwards upon merging.
